@@ -1,7 +1,7 @@
 # Customer-Segmentation
 This project classify an online store customers based on their Recnecy,Frequency and Monetary.
 
-Dataset name: appliances and electronics online store
+### Dataset name###: appliances and electronics online store
 ### Dataset source: Kaggle
 ### Dataset url: https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store
 ### Dataset brief:  This file contains purchase data from April 2020 to November 2020 from a large home appliances and electronics online store. Each row in the file represents an event. All events are related to products and users. 
