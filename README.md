@@ -33,7 +33,7 @@ Identify distinct customer segments based on purchasing behavior to enable data-
 ![RFM Plot](images/rfm.png)
 
 ### RFM Score Analysis
-![Segmentation](/images/segmentation.png)
+![Segmentation](segmentation.png)
 
 **Business Impact (How this would be used):**
 - Target high-value segments with retention campaigns → increase repeat purchases
