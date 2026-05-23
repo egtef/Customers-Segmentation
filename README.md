@@ -27,6 +27,14 @@ Identify distinct customer segments based on purchasing behavior to enable data-
 - Detected “at-risk” customers suitable for re-engagement campaigns
 - Revealed low-frequency users with upsell potential
 
+## Visualizations
+
+### Customer Segments Distribution
+![RFM Plot](/images/rfm.png) 
+
+### RFM Score Analysis
+![Segmentation](/images/segmentation.png)
+
 **Business Impact (How this would be used):**
 - Target high-value segments with retention campaigns → increase repeat purchases
 - Reactivate churn-risk customers → reduce customer acquisition cost (CAC)
@@ -38,4 +46,4 @@ Python (Pandas, NumPy), Data Visualization, RFM Analysis, Customer Segmentation,
 **Note**
 This project was developed as part of a graduation project using a real-world dataset, simulating a real business scenario and decision-making process.
 
-![](/images/rfm.png)  ![](/images/segmentation.png)
+
