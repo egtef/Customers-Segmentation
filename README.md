@@ -21,3 +21,19 @@ Identify distinct customer segments based on purchasing behavior to enable data-
 - Customer scoring and segmentation
 - Clustering validation using silhouette score
 - Data visualization (customer distribution & segment insights)
+
+**Key Insights:**
+- Identified high-value “loyal customers” contributing disproportionally to revenue
+- Detected “at-risk” customers suitable for re-engagement campaigns
+- Revealed low-frequency users with upsell potential
+
+**Business Impact (How this would be used):**
+- Target high-value segments with retention campaigns → increase repeat purchases
+- Reactivate churn-risk customers → reduce customer acquisition cost (CAC)
+- Personalize promotions → improve conversion rates
+
+**Tools & Skills**
+Python (Pandas, NumPy), Data Visualization, RFM Analysis, Customer Segmentation, Clustering Evaluation
+
+**Note**
+This project was developed as part of a graduation project using a real-world dataset, simulating a real business scenario and decision-making process.
