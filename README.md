@@ -1,24 +1,24 @@
 # Customer-Segmentation
 This project classify an online store customers based on their Recnecy,Frequency and Monetary.
 
-**Dataset name**: appliances and electronics online store
+**Overview:** 
+Segmented customers of a real-world e-commerce store using transactional data to uncover high-value audiences and improve marketing ROI.
 
-**Dataset source:** Kaggle
+**Business Problem:**
+E-commerce businesses often struggle to identify which customers to target for retention, upselling, and reactivation campaigns.
 
-**Dataset url:** https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store
+**Objective:**
+Identify distinct customer segments based on purchasing behavior to enable data-driven marketing strategies that increase revenue and customer lifetime value (CLV).
 
-**Dataset brief:**  This file contains purchase data from April 2020 to November 2020 from a large home appliances and electronics online store. Each row in the file represents an event. All events are related to products and users. 
+**Dataset:**
+- Source: Kaggle (real-world dataset)
+- Period: April 2020 – November 2020
+- Industry: Home appliances & electronics e-commerce
+- [View Dataset](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
 
-**Case problem:** The world has transferred to the digital era several years ago, along with this transformation the marketing has been evolved from traditional marketing activities to the digital one. Developing effective digital marketing strategies targeting the right audience with the required needs and demands based on specific characteristics is a problem faced many companies these days. Segmenting the customers based on their behaviour’s characteristics (spending, consumption habits, product/service usage, and previously purchased products), demographics characteristics like (occupation, gender, age, location, and marital status) and Psychographic characteristics like (social class, lifestyle, and personality characteristics) are essential for successful marketing strategies.
-
-**Project goal** Identify the potential customer group from transactional data to improve the marketing campaign by designing profitable strategies; hence to increase the sales.
-
-**Methodolgy of work:**
-- Import Libraries and Data
-- Data preprocessing
-- Data Insights
-- Perform RFM analysis
-- Data Visualization
-- Calculate the RFM Score
-- Identify segments
-- Evaluate clustering using silhouette score
+**Methodology:**
+- Data cleaning & preprocessing using Python (Pandas)
+- RFM (Recency, Frequency, Monetary) analysis
+- Customer scoring and segmentation
+- Clustering validation using silhouette score
+- Data visualization (customer distribution & segment insights)
