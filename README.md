@@ -30,7 +30,7 @@ Identify distinct customer segments based on purchasing behavior to enable data-
 ## Visualizations
 
 ### Customer Segments Distribution
-![RFM Plot](images/rfm.png)
+![RFM Plot](rfm.png)
 
 ### RFM Score Analysis
 ![Segmentation](segmentation.png)
