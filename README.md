@@ -1,5 +1,4 @@
 [**Project 1: Customer Segmentation for E-commerce Growth (RFM Analysis)**]
-This project classify an online store customers based on their Recnecy,Frequency and Monetary.
 
 **Overview:** 
 Segmented customers of a real-world e-commerce store using transactional data to uncover high-value audiences and improve marketing ROI.
