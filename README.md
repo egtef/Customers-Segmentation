@@ -37,3 +37,5 @@ Python (Pandas, NumPy), Data Visualization, RFM Analysis, Customer Segmentation,
 
 **Note**
 This project was developed as part of a graduation project using a real-world dataset, simulating a real business scenario and decision-making process.
+
+![](/images/rfm.png)  ![](/images/segmentation.png)
